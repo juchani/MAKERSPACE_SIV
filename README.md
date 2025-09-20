@@ -42,8 +42,4 @@ Cada comunidad desarrolla proyectos de innovación adaptados a sus necesidades y
 - `/documentacion/` → Informes, presentaciones y recursos de apoyo.  
 
 
-## 🤝 Cómo contribuir
-1. Haz un **fork** de este repositorio.  
-2. Crea una nueva rama con tu aporte:  
-   ```bash
-   git checkout -b mi-aporte
+
